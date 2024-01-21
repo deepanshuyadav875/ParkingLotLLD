@@ -1,4 +1,4 @@
-# LeegalityAssignment
+# Parking Lot
 ### Requirements
 - Python3
 ### Project Overview
